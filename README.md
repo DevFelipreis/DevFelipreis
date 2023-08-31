@@ -1,6 +1,6 @@
 ## Hello World :vulcan_salute:
 
-Meu nome é **Luiz Felipe** e atuo como **Desenvolvedor Back-end** desde 2023. Minha trajetória começou quando fui um dos 100 bolsistas da parceria entre o [Ifood](https://www.ifood.com.br/) e a escola de tecnologia [Cubos Academy](https://cubos.academy/). Fui contemplado com uma bolsa integral para estudar **Desenvolvimento de Software com foco em back-end**. Estou sempre em busca de mais conhecimento e aberto a **aprender novas linguagens e tecnologias**. Se conhecimento ocupa espaço, eu não sei, mas meu SSD é ilimitado:computer:
+Meu nome é **Luiz Felipe** e atuo como **Desenvolvedor Back-end** desde 2023. Minha trajetória começou quando fui um dos 1000 bolsistas da parceria entre o [Ifood](https://www.ifood.com.br/) e a escola de tecnologia [Cubos Academy](https://cubos.academy/). Fui contemplado com uma bolsa integral para estudar **Desenvolvimento de Software com foco em back-end**. Estou sempre em busca de mais conhecimento e aberto a **aprender novas linguagens e tecnologias**. Se conhecimento ocupa espaço, eu não sei, mas meu SSD é ilimitado:computer:
 
 **"Seja a mudança que você deseja ver no mundo." - Mahatma Gandhi**
 
