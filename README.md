@@ -12,5 +12,10 @@ Meu nome é **Luiz Felipe** e atuo como **Desenvolvedor Back-end** desde 2023. M
 **"Seja a mudança que você deseja ver no mundo." - Mahatma Gandhi**
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipreis)](https://github.com/DevFelipreis)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipreis&layout=donut-vertical&bg_color=000000&text_color=FFFFFF&title_color=800080&hide_border=true)](https://github.com/DevFelipreis)
+
+
+
+
+
 
