@@ -1,4 +1,6 @@
-## Hello World :vulcan_salute:
+## Hello World, Eu sou o Luiz Felipe :vulcan_salute:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlfreis/)
+ [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfreis.contato@gmail.com)  ![ezgif com-resize (4)](https://github.com/DevFelipreis/DevFelipreis/assets/134344282/2eda7949-a88f-4b4e-96cf-1e0655631dc2)
 
 ### Hard Skills!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -8,14 +10,13 @@
 
 
 ### Quem sou eu?!
-Meu nome é **Luiz Felipe** e atuo como **Desenvolvedor de Software Backend** desde 2023. Minha trajetória começou quando fui um dos 1000 bolsistas da parceria entre o [Ifood](https://www.ifood.com.br/) e a escola de tecnologia [Cubos Academy](https://cubos.academy/) para estudar **Desenvolvimento de Software com foco em back-end**. Antes da minha migração de carreira, trabalhei com atendimento ao público, onde aprendi a ter mais cortesia, empatia, criatividade, pontualidade com os prazos propostos, resolução de problemas e a ser mais comunicativo, tanto com os clientes quanto com meus colegas de trabalho. Estou sempre em busca de mais conhecimento e aberto a **aprender novas linguagens e tecnologias**. Se conhecimento ocupa espaço, eu não sei, mas meu SSD é ilimitado:computer:
+Atuo como **Desenvolvedor de Software Backend** desde 2023. Minha trajetória começou quando fui um dos 1000 bolsistas da parceria entre o [Ifood](https://www.ifood.com.br/) e a escola de tecnologia [Cubos Academy](https://cubos.academy/) para estudar **Desenvolvimento de Software com foco em back-end**. Antes da minha migração de carreira, trabalhei com atendimento ao público, onde aprendi a ter mais cortesia, empatia, criatividade, pontualidade com os prazos propostos, resolução de problemas e a ser mais comunicativo, tanto com os clientes quanto com meus colegas de trabalho. Estou sempre em busca de mais conhecimento e aberto a **aprender novas linguagens e tecnologias**. Se conhecimento ocupa espaço, eu não sei, mas meu SSD é ilimitado:computer:
 
 **"Seja a mudança que você deseja ver no mundo." - Mahatma Gandhi** 
 
    
-### Saiba mais do meu trabalho!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlfreis/)
- [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfreis.contato@gmail.com)  ![ezgif com-resize (4)](https://github.com/DevFelipreis/DevFelipreis/assets/134344282/2eda7949-a88f-4b4e-96cf-1e0655631dc2)
+
+
 
 
 
