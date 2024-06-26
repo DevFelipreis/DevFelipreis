@@ -12,7 +12,7 @@
 ### Quem sou eu?!
 Apaixonado por tecnologia e o universo Open Source em geral!
 
-Atuo como **Desenvolvedor de Software Backend** desde 2023. Minha trajetória começou quando fui um dos 1000 bolsistas da parceria entre o [Ifood](https://www.ifood.com.br/) e a escola de tecnologia [Cubos Academy](https://cubos.academy/) para estudar **Desenvolvimento de Software com foco em back-end**. Antes da minha migração de carreira, trabalhei com atendimento ao público, onde aprendi a ter mais cortesia, empatia, criatividade, pontualidade com os prazos propostos, resolução de problemas e a ser mais comunicativo, tanto com os clientes quanto com meus colegas de trabalho. Estou sempre em busca de mais conhecimento e aberto a **aprender novas linguagens e tecnologias**. Se conhecimento ocupa espaço, eu não sei, mas meu SSD é ilimitado:computer:
+Atuo como **Desenvolvedor de Software Backend** desde 2023. Minha trajetória começou quando fui um dos 1000 bolsistas da parceria entre o [Ifood](https://www.ifood.com.br/) e a escola de tecnologia [Cubos Academy](https://cubos.academy/) para estudar **Desenvolvimento de Software com foco em back-end**. Antes da minha migração de carreira, trabalhei com atendimento ao público, onde aprendi a ter mais cortesia, empatia, criatividade, pontualidade com os prazos propostos, resolução de problemas e a ser mais comunicativo, tanto com os clientes quanto com meus colegas de trabalho. Estou sempre em busca de mais conhecimento e aberto a **aprender novas linguagens e tecnologias**. Se conhecimento ocupa espaço, eu não sei, mas meu SSD é ilimitado.
 
 **"...Eu sou o mestre do meu destino,
 Eu sou o comandante da minha alma."** - Invictus -  William Ernest Henley
