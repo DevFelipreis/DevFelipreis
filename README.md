@@ -9,16 +9,11 @@ Atuo como **Desenvolvedor de Software Backend** desde 2023 e **Mobile** desde 20
 
 ---
 
-### Hard Skills
-
-- **Kotlin | JavaScript | TypeScript | Node.js | HTML5 | CSS3 | PostgreSQL | GIT | Express.js**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFelipreis&show_icons=true&bg_color=000000&title_color=8A2BE2&text_color=808080&border_color=000000)](https://github.com/DevFelipreis) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipreis&layout=compact&bg_color=000000&text_color=808080&title_color=8A2BE2&hide_border=true)](https://github.com/DevFelipreis)
-
----
-
 ### Saiba mais sobre meus projetos profissionais, pessoais e acadêmicos
 
-- **[LinkedIn](https://www.linkedin.com/in/devlfreis/) | [YouTube](https://www.youtube.com/channel/UCHtZUpwqO_FhX5qshDDdCow) | [E-mail](mailto:lfreis.contato@gmail.com)**
-
----
+[![Behance](https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lfreis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfreis/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lfreis_oficial/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lfreisdesigner.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LFReis)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfreisdesigner@gmail.com)
